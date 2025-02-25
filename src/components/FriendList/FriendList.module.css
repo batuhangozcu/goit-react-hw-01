@@ -1,26 +1,3 @@
-.online {
-  margin: 5px 0 20px 0;
-  color: green;
-}
-
-.offline {
-  margin: 5px 0 20px 0;
-  color: red; /* Kırmızı arka plan (offline) */
-}
-
-.table {
-  background-color: white;
-  border: 2px solid;
-  border-radius: 8px;
-}
-
-.avatars {
-  border-radius: 0;
-  background-color: white;
-  width: 48px;
-  margin-top: 10px;
-}
-
 .tables {
   list-style: none;
   display: flex;
@@ -31,10 +8,4 @@
 .tables li {
   margin-inline: 5px;
   width: 100px;
-}
-
-.friends {
-  font-size: 20px;
-  margin: 10px 0 0 0;
-  font-weight: bold;
 }

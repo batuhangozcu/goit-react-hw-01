@@ -1,0 +1,26 @@
+.friends {
+  font-size: 20px;
+  margin: 10px 0 0 0;
+  font-weight: bold;
+}
+.table {
+  background-color: white;
+  border: 2px solid;
+  border-radius: 8px;
+}
+
+.avatars {
+  border-radius: 0;
+  background-color: white;
+  width: 48px;
+  margin-top: 10px;
+}
+.online {
+  margin: 5px 0 20px 0;
+  color: green;
+}
+
+.offline {
+  margin: 5px 0 20px 0;
+  color: red; /* Kırmızı arka plan (offline) */
+}
